@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://ri2vhdoisx3f"
-path="res://.godot/imported/enemy_ship_2.png-f9bcb3c46b489cf6a7e92136d903312d.ctex"
+uid="uid://ddyb5086j1ym2"
+path="res://.godot/imported/rocket.png-ea91b5e7dac3f4a2ee8d7627106edbe9.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/alien_attack_assets/textures/enemy_ship_2.png"
-dest_files=["res://.godot/imported/enemy_ship_2.png-f9bcb3c46b489cf6a7e92136d903312d.ctex"]
+source_file="res://assets/textures/rocket.png"
+dest_files=["res://.godot/imported/rocket.png-ea91b5e7dac3f4a2ee8d7627106edbe9.ctex"]
 
 [params]
 

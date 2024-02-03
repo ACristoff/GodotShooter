@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://dw0fin6vmbivw"
-path="res://.godot/imported/sfx_laser2.wav-1d7385344ae19782efc39bea1c93a5a6.sample"
+path="res://.godot/imported/sfx_laser2.wav-a9b3ed3b9dd7e84862322c92c5e067e3.sample"
 
 [deps]
 
-source_file="res://assets/alien_attack_assets/audio/sfx_laser2.wav"
-dest_files=["res://.godot/imported/sfx_laser2.wav-1d7385344ae19782efc39bea1c93a5a6.sample"]
+source_file="res://assets/audio/sfx_laser2.wav"
+dest_files=["res://.godot/imported/sfx_laser2.wav-a9b3ed3b9dd7e84862322c92c5e067e3.sample"]
 
 [params]
 

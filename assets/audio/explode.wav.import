@@ -2,13 +2,13 @@
 
 importer="wav"
 type="AudioStreamWAV"
-uid="uid://5d50xxp5xkvd"
-path="res://.godot/imported/hit.wav-245f77ca52403e42c9d043c49acf3d24.sample"
+uid="uid://dqakjo0km8tmd"
+path="res://.godot/imported/explode.wav-cfae5cfb6a02bfb408c9d57edb8ba93d.sample"
 
 [deps]
 
-source_file="res://assets/alien_attack_assets/audio/hit.wav"
-dest_files=["res://.godot/imported/hit.wav-245f77ca52403e42c9d043c49acf3d24.sample"]
+source_file="res://assets/audio/explode.wav"
+dest_files=["res://.godot/imported/explode.wav-cfae5cfb6a02bfb408c9d57edb8ba93d.sample"]
 
 [params]
 

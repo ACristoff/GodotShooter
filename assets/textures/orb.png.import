@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://batf0l4kucd2t"
-path="res://.godot/imported/bg.png-f69c6c89799b85c71147a47563916650.ctex"
+uid="uid://46fx3qo1gh74"
+path="res://.godot/imported/orb.png-56873e17f78502efb0beef9bb55d6cd8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/alien_attack_assets/textures/bg.png"
-dest_files=["res://.godot/imported/bg.png-f69c6c89799b85c71147a47563916650.ctex"]
+source_file="res://assets/textures/orb.png"
+dest_files=["res://.godot/imported/orb.png-56873e17f78502efb0beef9bb55d6cd8.ctex"]
 
 [params]
 
